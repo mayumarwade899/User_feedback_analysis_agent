@@ -1,0 +1,57 @@
+source_id,step,status,details,timestamp
+R-1001,classification,completed,"Category=Bug, Priority=High",2025-12-17T14:47:54.161521
+R-1001,bug_analysis,completed,Bug insights extracted,2025-12-17T14:47:54.161542
+R-1001,ticket_creation,completed,Ticket=T-A701A4DF88,2025-12-17T14:47:54.161563
+R-1001,quality_review,passed,OK,2025-12-17T14:47:54.161574
+R-1002,classification,completed,"Category=Feature Request, Priority=Medium",2025-12-17T14:47:54.161608
+R-1002,feature_extraction,completed,Feature insights extracted,2025-12-17T14:47:54.161619
+R-1002,ticket_creation,completed,Ticket=T-361995AE62,2025-12-17T14:47:54.161629
+R-1002,quality_review,passed,OK,2025-12-17T14:47:54.161638
+R-1003,classification,completed,"Category=Praise, Priority=Low",2025-12-17T14:47:54.161661
+R-1003,ticket_creation,completed,Ticket=T-B564A2D8B2,2025-12-17T14:47:54.161670
+R-1003,quality_review,passed,OK,2025-12-17T14:47:54.161680
+R-1004,classification,completed,"Category=Bug, Priority=High",2025-12-17T14:47:54.161702
+R-1004,bug_analysis,completed,Bug insights extracted,2025-12-17T14:47:54.161712
+R-1004,ticket_creation,completed,Ticket=T-B8309ECE91,2025-12-17T14:47:54.161721
+R-1004,quality_review,passed,OK,2025-12-17T14:47:54.161730
+R-1005,classification,completed,"Category=Feature Request, Priority=Medium",2025-12-17T14:47:54.161752
+R-1005,feature_extraction,completed,Feature insights extracted,2025-12-17T14:47:54.161761
+R-1005,ticket_creation,completed,Ticket=T-721B7492F2,2025-12-17T14:47:54.161771
+R-1005,quality_review,passed,OK,2025-12-17T14:47:54.161780
+R-1006,classification,completed,"Category=Complaint, Priority=Medium",2025-12-17T14:47:54.161800
+R-1006,ticket_creation,completed,Ticket=T-D01001B3B7,2025-12-17T14:47:54.161837
+R-1006,quality_review,passed,OK,2025-12-17T14:47:54.161847
+R-1007,classification,completed,"Category=Praise, Priority=Low",2025-12-17T14:47:54.161868
+R-1007,ticket_creation,completed,Ticket=T-356E0FBF8A,2025-12-17T14:47:54.161877
+R-1007,quality_review,passed,OK,2025-12-17T14:47:54.161886
+R-1008,classification,completed,"Category=Complaint, Priority=Medium",2025-12-17T14:47:54.161907
+R-1008,ticket_creation,completed,Ticket=T-49EDEB8176,2025-12-17T14:47:54.161917
+R-1008,quality_review,passed,OK,2025-12-17T14:47:54.161927
+R-1009,classification,completed,"Category=Spam, Priority=Low",2025-12-17T14:47:54.161947
+R-1009,ticket_creation,completed,Ticket=T-82AAAC52CD,2025-12-17T14:47:54.161956
+R-1009,quality_review,passed,OK,2025-12-17T14:47:54.161965
+R-1010,classification,completed,"Category=Praise, Priority=Low",2025-12-17T14:47:54.161985
+R-1010,ticket_creation,completed,Ticket=T-604439609E,2025-12-17T14:47:54.161995
+R-1010,quality_review,passed,OK,2025-12-17T14:47:54.162004
+E-5001,classification,completed,"Category=Bug, Priority=High",2025-12-17T14:47:54.162026
+E-5001,bug_analysis,completed,Bug insights extracted,2025-12-17T14:47:54.162036
+E-5001,ticket_creation,completed,Ticket=T-8C311431E7,2025-12-17T14:47:54.162045
+E-5001,quality_review,passed,OK,2025-12-17T14:47:54.162053
+E-5002,classification,completed,"Category=Feature Request, Priority=Medium",2025-12-17T14:47:54.162077
+E-5002,feature_extraction,completed,Feature insights extracted,2025-12-17T14:47:54.162087
+E-5002,ticket_creation,completed,Ticket=T-1E8F2EC865,2025-12-17T14:47:54.162097
+E-5002,quality_review,passed,OK,2025-12-17T14:47:54.162107
+E-5003,classification,completed,"Category=Bug, Priority=High",2025-12-17T14:47:54.162130
+E-5003,bug_analysis,completed,Bug insights extracted,2025-12-17T14:47:54.162139
+E-5003,ticket_creation,completed,Ticket=T-D90773A288,2025-12-17T14:47:54.162149
+E-5003,quality_review,passed,OK,2025-12-17T14:47:54.162159
+E-5004,classification,completed,"Category=Praise, Priority=Low",2025-12-17T14:47:54.162180
+E-5004,ticket_creation,completed,Ticket=T-B9F4E608C7,2025-12-17T14:47:54.162189
+E-5004,quality_review,passed,OK,2025-12-17T14:47:54.162199
+E-5005,classification,completed,"Category=Bug, Priority=High",2025-12-17T14:47:54.162220
+E-5005,bug_analysis,completed,Bug insights extracted,2025-12-17T14:47:54.162229
+E-5005,ticket_creation,completed,Ticket=T-81DE892339,2025-12-17T14:47:54.162240
+E-5005,quality_review,passed,OK,2025-12-17T14:47:54.162249
+E-5006,classification,completed,"Category=Praise, Priority=Low",2025-12-17T14:47:54.162270
+E-5006,ticket_creation,completed,Ticket=T-2087CFB984,2025-12-17T14:47:54.162279
+E-5006,quality_review,passed,OK,2025-12-17T14:47:54.162289

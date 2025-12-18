@@ -1,0 +1,7 @@
+email_id,subject,body,sender_email,timestamp,priority
+E-5001,App Crash Report,"Hi team,\n\nSince updating to version 3.1.0 on my Pixel 6 (Android 14), the app crashes when I tap 'Export'. Steps: 1) Open Tasks, 2) Tap Export, 3) Choose PDF, 4) Crash. Please advise.\n\nThanks,\nJordan",jordan@email.com,2024-05-12T09:32:00Z,High
+E-5002,Feature Request: Dark Mode,"Hello,\n\nI'd love a dark theme for late-night planning. My eyes would thank you!\n\nBest,\nRiley",riley@email.com,2024-05-11T21:05:00Z,
+E-5003,Data Loss Problem,"Urgent! I lost my tasks after syncing between my iPad (iOS 17.4) and Mac app. I had just merged two lists when everything vanished. Please recover ASAP.",casey@email.com,2024-05-10T13:14:00Z,Critical
+E-5004,Suggestion for Improvement,"Hi team,\n\nIt would be great if the recurring tasks supported custom intervals like every 3 days.\n\nRegards,\nMaya",maya@email.com,2024-05-09T08:47:00Z,Medium
+E-5005,Login Issue,"Can't log in using Google SSO. Error: OAuth2 timeout. Device: iPhone 13 Pro, iOS 17.3.1. Started after yesterday's release.",pat@email.com,2024-05-08T07:50:00Z,High
+E-5006,Love the app,"Just wanted to say the app keeps me organized every week. Keep it up!",lee@email.com,2024-05-07T11:20:00Z,Low

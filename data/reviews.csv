@@ -1,0 +1,11 @@
+review_id,platform,rating,review_text,user_name,date,app_version
+R-1001,Google Play,1,"App crashes whenever I try to export my tasks to PDF on my Pixel 7 running Android 14.",Jordan K,2024-05-12,3.1.0
+R-1002,App Store,4,"Would love to see a calendar view so I can plan my week at a glance.",Marina S,2024-05-10,3.0.2
+R-1003,Google Play,5,"Amazing app! Syncs perfectly across my devices.",Alex P,2024-05-09,3.1.0
+R-1004,App Store,2,"Login keeps failing after the latest update. I get an OAuth timeout error.",Priya N,2024-05-08,3.0.2
+R-1005,Google Play,3,"Please add tags to tasks. It would really help organize work vs personal items.",Samir L,2024-05-07,3.1.0
+R-1006,App Store,1,"Data sync not working between my iPhone and Mac. Tasks disappear randomly.",Chris B,2024-05-05,3.0.1
+R-1007,Google Play,5,"Love the new focus timer! Helps me stay productive.",Lena M,2024-05-03,3.1.0
+R-1008,App Store,2,"Too expensive for what it does compared to other apps.",Taylor Q,2024-05-01,3.0.0
+R-1009,Google Play,1,"BUY FOLLOWERS FAST!!! Visit spamlink.example now!!!",PromoBot,2024-04-30,3.1.0
+R-1010,App Store,4,"Offline mode would be great for traveling on planes.",Nate R,2024-04-29,3.0.0

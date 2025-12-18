@@ -1,0 +1,2 @@
+processed,by_category,by_priority,avg_confidence
+16,"{'Bug': 5, 'Feature Request': 3, 'Praise': 5, 'Complaint': 2, 'Spam': 1}","{'High': 5, 'Medium': 5, 'Low': 6}",0.35

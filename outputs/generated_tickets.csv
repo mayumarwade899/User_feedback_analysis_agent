@@ -1,0 +1,206 @@
+ticket_id,title,description,category,priority,source_id,source_type,metadata
+T-A701A4DF88,App crashes whenever I try to export my tasks to PDF on my Pixel 7 running Android 14,"Category: Bug
+Priority: High
+Confidence Score: 0.35
+
+Original Feedback:
+App crashes whenever I try to export my tasks to PDF on my Pixel 7 running Android 14.
+
+Bug Details:
+- Severity: High
+- Environment: Google Play
+- Steps to Reproduce: Not provided
+- Impact Summary: Heuristic keyword-based classification applied.
+
+Source Information:
+- Source Type: app_store
+- Payload Fields: review_id, platform, rating, review_text, user_name, date, app_version",Bug,High,R-1001,app_store,"{""source_id"": ""R-1001"", ""source_type"": ""app_store"", ""payload_fields"": ""review_id,platform,rating,review_text,user_name,date,app_version"", ""bug_severity"": ""High"", ""bug_environment"": ""Google Play""}"
+T-361995AE62,Would love to see a calendar view so I can plan my week at a glance,"Category: Feature Request
+Priority: Medium
+Confidence Score: 0.35
+
+Original Feedback:
+Would love to see a calendar view so I can plan my week at a glance.
+
+Feature Insights:
+- User Value: Unspecified
+- Demand Level: Medium
+- Suggested Solution: Would love to see a calendar view so I can plan my week at a glance.
+
+Source Information:
+- Source Type: app_store
+- Payload Fields: review_id, platform, rating, review_text, user_name, date, app_version",Feature Request,Medium,R-1002,app_store,"{""source_id"": ""R-1002"", ""source_type"": ""app_store"", ""payload_fields"": ""review_id,platform,rating,review_text,user_name,date,app_version"", ""feature_demand"": ""Medium""}"
+T-B564A2D8B2,Amazing app! Syncs perfectly across my devices,"Category: Praise
+Priority: Low
+Confidence Score: 0.35
+
+Original Feedback:
+Amazing app! Syncs perfectly across my devices.
+
+Source Information:
+- Source Type: app_store
+- Payload Fields: review_id, platform, rating, review_text, user_name, date, app_version",Praise,Low,R-1003,app_store,"{""source_id"": ""R-1003"", ""source_type"": ""app_store"", ""payload_fields"": ""review_id,platform,rating,review_text,user_name,date,app_version""}"
+T-B8309ECE91,Login keeps failing after the latest update,"Category: Bug
+Priority: High
+Confidence Score: 0.35
+
+Original Feedback:
+Login keeps failing after the latest update. I get an OAuth timeout error.
+
+Bug Details:
+- Severity: High
+- Environment: App Store
+- Steps to Reproduce: Not provided
+- Impact Summary: Heuristic keyword-based classification applied.
+
+Source Information:
+- Source Type: app_store
+- Payload Fields: review_id, platform, rating, review_text, user_name, date, app_version",Bug,High,R-1004,app_store,"{""source_id"": ""R-1004"", ""source_type"": ""app_store"", ""payload_fields"": ""review_id,platform,rating,review_text,user_name,date,app_version"", ""bug_severity"": ""High"", ""bug_environment"": ""App Store""}"
+T-721B7492F2,Please add tags to tasks,"Category: Feature Request
+Priority: Medium
+Confidence Score: 0.35
+
+Original Feedback:
+Please add tags to tasks. It would really help organize work vs personal items.
+
+Feature Insights:
+- User Value: Unspecified
+- Demand Level: Medium
+- Suggested Solution: Please add tags to tasks. It would really help organize work vs personal items.
+
+Source Information:
+- Source Type: app_store
+- Payload Fields: review_id, platform, rating, review_text, user_name, date, app_version",Feature Request,Medium,R-1005,app_store,"{""source_id"": ""R-1005"", ""source_type"": ""app_store"", ""payload_fields"": ""review_id,platform,rating,review_text,user_name,date,app_version"", ""feature_demand"": ""Medium""}"
+T-D01001B3B7,Data sync not working between my iPhone and Mac,"Category: Complaint
+Priority: Medium
+Confidence Score: 0.35
+
+Original Feedback:
+Data sync not working between my iPhone and Mac. Tasks disappear randomly.
+
+Source Information:
+- Source Type: app_store
+- Payload Fields: review_id, platform, rating, review_text, user_name, date, app_version",Complaint,Medium,R-1006,app_store,"{""source_id"": ""R-1006"", ""source_type"": ""app_store"", ""payload_fields"": ""review_id,platform,rating,review_text,user_name,date,app_version""}"
+T-356E0FBF8A,Love the new focus timer! Helps me stay productive,"Category: Praise
+Priority: Low
+Confidence Score: 0.35
+
+Original Feedback:
+Love the new focus timer! Helps me stay productive.
+
+Source Information:
+- Source Type: app_store
+- Payload Fields: review_id, platform, rating, review_text, user_name, date, app_version",Praise,Low,R-1007,app_store,"{""source_id"": ""R-1007"", ""source_type"": ""app_store"", ""payload_fields"": ""review_id,platform,rating,review_text,user_name,date,app_version""}"
+T-49EDEB8176,Too expensive for what it does compared to other apps,"Category: Complaint
+Priority: Medium
+Confidence Score: 0.35
+
+Original Feedback:
+Too expensive for what it does compared to other apps.
+
+Source Information:
+- Source Type: app_store
+- Payload Fields: review_id, platform, rating, review_text, user_name, date, app_version",Complaint,Medium,R-1008,app_store,"{""source_id"": ""R-1008"", ""source_type"": ""app_store"", ""payload_fields"": ""review_id,platform,rating,review_text,user_name,date,app_version""}"
+T-82AAAC52CD,BUY FOLLOWERS FAST!!! Visit spamlink,"Category: Spam
+Priority: Low
+Confidence Score: 0.35
+
+Original Feedback:
+BUY FOLLOWERS FAST!!! Visit spamlink.example now!!!
+
+Source Information:
+- Source Type: app_store
+- Payload Fields: review_id, platform, rating, review_text, user_name, date, app_version",Spam,Low,R-1009,app_store,"{""source_id"": ""R-1009"", ""source_type"": ""app_store"", ""payload_fields"": ""review_id,platform,rating,review_text,user_name,date,app_version""}"
+T-604439609E,Offline mode would be great for traveling on planes,"Category: Praise
+Priority: Low
+Confidence Score: 0.35
+
+Original Feedback:
+Offline mode would be great for traveling on planes.
+
+Source Information:
+- Source Type: app_store
+- Payload Fields: review_id, platform, rating, review_text, user_name, date, app_version",Praise,Low,R-1010,app_store,"{""source_id"": ""R-1010"", ""source_type"": ""app_store"", ""payload_fields"": ""review_id,platform,rating,review_text,user_name,date,app_version""}"
+T-8C311431E7,App Crash Report,"Category: Bug
+Priority: High
+Confidence Score: 0.35
+
+Original Feedback:
+Hi team,\n\nSince updating to version 3.1.0 on my Pixel 6 (Android 14), the app crashes when I tap 'Export'. Steps: 1) Open Tasks, 2) Tap Export, 3) Choose PDF, 4) Crash. Please advise.\n\nThanks,\nJordan
+
+Bug Details:
+- Severity: High
+- Environment: App Crash Report
+- Steps to Reproduce: Not provided
+- Impact Summary: Heuristic keyword-based classification applied.
+
+Source Information:
+- Source Type: support_email
+- Payload Fields: email_id, subject, body, sender_email, timestamp, priority",Bug,High,E-5001,support_email,"{""source_id"": ""E-5001"", ""source_type"": ""support_email"", ""payload_fields"": ""email_id,subject,body,sender_email,timestamp,priority"", ""bug_severity"": ""High"", ""bug_environment"": ""App Crash Report""}"
+T-1E8F2EC865,Feature Request: Dark Mode,"Category: Feature Request
+Priority: Medium
+Confidence Score: 0.35
+
+Original Feedback:
+Hello,\n\nI'd love a dark theme for late-night planning. My eyes would thank you!\n\nBest,\nRiley
+
+Feature Insights:
+- User Value: Unspecified
+- Demand Level: Medium
+- Suggested Solution: Hello,\n\nI'd love a dark theme for late-night planning. My eyes would thank you!\n\nBest,\nRiley
+
+Source Information:
+- Source Type: support_email
+- Payload Fields: email_id, subject, body, sender_email, timestamp, priority",Feature Request,Medium,E-5002,support_email,"{""source_id"": ""E-5002"", ""source_type"": ""support_email"", ""payload_fields"": ""email_id,subject,body,sender_email,timestamp,priority"", ""feature_demand"": ""Medium""}"
+T-D90773A288,Data Loss Problem,"Category: Bug
+Priority: High
+Confidence Score: 0.35
+
+Original Feedback:
+Urgent! I lost my tasks after syncing between my iPad (iOS 17.4) and Mac app. I had just merged two lists when everything vanished. Please recover ASAP.
+
+Bug Details:
+- Severity: High
+- Environment: Data Loss Problem
+- Steps to Reproduce: Not provided
+- Impact Summary: Heuristic keyword-based classification applied.
+
+Source Information:
+- Source Type: support_email
+- Payload Fields: email_id, subject, body, sender_email, timestamp, priority",Bug,High,E-5003,support_email,"{""source_id"": ""E-5003"", ""source_type"": ""support_email"", ""payload_fields"": ""email_id,subject,body,sender_email,timestamp,priority"", ""bug_severity"": ""High"", ""bug_environment"": ""Data Loss Problem""}"
+T-B9F4E608C7,Suggestion for Improvement,"Category: Praise
+Priority: Low
+Confidence Score: 0.35
+
+Original Feedback:
+Hi team,\n\nIt would be great if the recurring tasks supported custom intervals like every 3 days.\n\nRegards,\nMaya
+
+Source Information:
+- Source Type: support_email
+- Payload Fields: email_id, subject, body, sender_email, timestamp, priority",Praise,Low,E-5004,support_email,"{""source_id"": ""E-5004"", ""source_type"": ""support_email"", ""payload_fields"": ""email_id,subject,body,sender_email,timestamp,priority""}"
+T-81DE892339,Login Issue,"Category: Bug
+Priority: High
+Confidence Score: 0.35
+
+Original Feedback:
+Can't log in using Google SSO. Error: OAuth2 timeout. Device: iPhone 13 Pro, iOS 17.3.1. Started after yesterday's release.
+
+Bug Details:
+- Severity: High
+- Environment: Login Issue
+- Steps to Reproduce: Not provided
+- Impact Summary: Heuristic keyword-based classification applied.
+
+Source Information:
+- Source Type: support_email
+- Payload Fields: email_id, subject, body, sender_email, timestamp, priority",Bug,High,E-5005,support_email,"{""source_id"": ""E-5005"", ""source_type"": ""support_email"", ""payload_fields"": ""email_id,subject,body,sender_email,timestamp,priority"", ""bug_severity"": ""High"", ""bug_environment"": ""Login Issue""}"
+T-2087CFB984,Love the app,"Category: Praise
+Priority: Low
+Confidence Score: 0.35
+
+Original Feedback:
+Just wanted to say the app keeps me organized every week. Keep it up!
+
+Source Information:
+- Source Type: support_email
+- Payload Fields: email_id, subject, body, sender_email, timestamp, priority",Praise,Low,E-5006,support_email,"{""source_id"": ""E-5006"", ""source_type"": ""support_email"", ""payload_fields"": ""email_id,subject,body,sender_email,timestamp,priority""}"
