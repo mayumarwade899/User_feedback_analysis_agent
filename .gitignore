@@ -1,0 +1,227 @@
+# =============================================================================
+# SECURITY — NEVER COMMIT THESE
+# =============================================================================
+
+# Environment variables (API keys, secrets)
+.env
+.env.local
+.env.development
+.env.production
+.env.staging
+*.env
+
+# =============================================================================
+# PYTHON
+# =============================================================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+.Python
+build/
+dist/
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+virtualenv/
+.virtualenv/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+pytest.ini
+test-results/
+test_output/
+
+# Type checker
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+
+# =============================================================================
+# PROJECT-SPECIFIC
+# =============================================================================
+
+# Generated pipeline outputs (auto-created by the pipeline)
+outputs/generated_tickets.csv
+outputs/metrics.csv
+outputs/processing_log.csv
+
+# Uploaded / temporary input files (keep sample data, ignore real data drops)
+uploads/
+temp/
+tmp/
+
+# LangChain / LangGraph cache and traces
+.langchain/
+.langgraph/
+langsmith_traces/
+
+# LangSmith local logs
+langsmith.log
+
+# Model checkpoints / local model weights
+models/
+*.bin
+*.safetensors
+*.gguf
+
+# ChromaDB / local vector store (if added later)
+chroma_db/
+*.chroma
+vectorstore/
+
+# =============================================================================
+# STREAMLIT
+# =============================================================================
+
+# Streamlit secrets (never commit)
+.streamlit/secrets.toml
+
+# Streamlit cache
+.streamlit/cache/
+
+# =============================================================================
+# NOTEBOOKS
+# =============================================================================
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+*.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# =============================================================================
+# EDITORS & IDEs
+# =============================================================================
+
+# VS Code — workspace settings are personal, not project config
+.vscode/
+*.code-workspace
+
+# JetBrains (PyCharm, IntelliJ)
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Sublime Text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
+# Vim / Neovim
+*.swp
+*.swo
+*~
+.netrwhist
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+# =============================================================================
+# OPERATING SYSTEM
+# =============================================================================
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.AppleDouble
+.LSOverride
+Icon
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# =============================================================================
+# LOGS & DEBUGGING
+# =============================================================================
+
+# Application logs
+*.log
+logs/
+log/
+
+# =============================================================================
+# DOCKER (for future use)
+# =============================================================================
+
+# Docker volumes mounted locally
+.docker/
+
+# =============================================================================
+# WHAT IS INTENTIONALLY KEPT IN GIT
+# =============================================================================
+# data/emails.csv          — sample input data (no real PII)
+# data/reviews.csv         — sample input data (no real PII)
+# data/expected_classification.csv — evaluation ground truth
+# outputs/.gitkeep         — keeps the outputs/ folder tracked but empty
+# .env.example             — template showing required env var names (NO values)
